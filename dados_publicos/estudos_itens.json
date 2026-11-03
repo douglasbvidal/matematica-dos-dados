@@ -1,0 +1,2991 @@
+{
+  "version": "estudos_itens_2026-10-21_r1",
+  "base": "2026-10-21_trabalho_abr_set_r2",
+  "consulta": "2026-10-21",
+  "sources": [
+    {
+      "id": "E01",
+      "instituicao": "Conab/Dieese",
+      "titulo": "Cesta básica: resultados de agosto de 2026",
+      "url": "https://www.gov.br/conab/pt-br/assuntos/noticias/custo-da-cesta-basica-registra-queda-em-25-capitais-no-mes-de-agosto/",
+      "publicacao": "2026-09-10",
+      "periodo": "Agosto de 2026",
+      "geografia": "27 capitais",
+      "cadeia": "Varejo de alimentos",
+      "localizacao": "Parágrafos por produto",
+      "sintese": "O levantamento discute oferta, colheita e demanda. As capitais não representam os mercados de Montanha.",
+      "consulta": "2026-10-21",
+      "estado": "Conteúdo primário aberto e lido na pesquisa web",
+      "tipo": "contexto do período",
+      "limite": "Não demonstra repasse a cada produto ou loja de Montanha."
+    },
+    {
+      "id": "E02",
+      "instituicao": "Conab/Prohort",
+      "titulo": "Batata, cebola, mamão e banana: atacado em agosto",
+      "url": "https://www.gov.br/conab/pt-br/assuntos/noticias/alface-cebola-batata-e-mamao-apresentam-reducao-superior-a-10-na-media-dos-valores-de-comercializacao-no-atacado/",
+      "publicacao": "2026-09-22",
+      "periodo": "Julho–agosto de 2026",
+      "geografia": "Ceasas, incluindo Vitória em recortes",
+      "cadeia": "Atacado de hortifrúti",
+      "localizacao": "Parágrafos por produto",
+      "sintese": "Maior oferta pressionou batata e mamão; cebola recuou. Banana teve resultados heterogêneos. Atacado difere de varejo.",
+      "consulta": "2026-10-21",
+      "estado": "Conteúdo primário aberto e lido na pesquisa web",
+      "tipo": "contexto do período",
+      "limite": "Não demonstra repasse a cada produto ou loja de Montanha."
+    },
+    {
+      "id": "E03",
+      "instituicao": "ABIA",
+      "titulo": "Balanço da indústria de alimentos de 2025",
+      "url": "https://abia.org.br/release/industria-de-alimentos-contribui-para-conter-inflacao-lidera-a-geracao-de-empregos-e-sustenta-crescimento-em-2025/",
+      "publicacao": "2026-03-06 (texto de 05/03)",
+      "periodo": "Balanço de 2025, anterior às coletas",
+      "geografia": "Brasil",
+      "cadeia": "Indústria de alimentos",
+      "localizacao": "Custos e repasse",
+      "sintese": "Insumos agrícolas, embalagem, energia e combustível participam dos custos; eficiência pode limitar repasses. Não é explicação mensal de 2026.",
+      "consulta": "2026-10-21",
+      "estado": "Conteúdo primário aberto e lido na pesquisa web",
+      "tipo": "fundamento de cadeia",
+      "limite": "Não demonstra repasse a cada produto ou loja de Montanha."
+    },
+    {
+      "id": "E04",
+      "instituicao": "Colgate-Palmolive",
+      "titulo": "Comentários da administração — primeiro trimestre de 2026",
+      "url": "https://investor.colgatepalmolive.com/static-files/41f70cba-c1d1-4a1b-bab4-272d902f65dd",
+      "publicacao": "2026-05-01",
+      "periodo": "Primeiro trimestre e perspectivas de 2026",
+      "geografia": "Operações globais da empresa",
+      "cadeia": "Cuidados pessoais, bucais e do lar",
+      "localizacao": "pp. 1–2 e 7",
+      "sintese": "A companhia relata pressão em insumos, embalagens e logística e ações para absorvê-la. Não comprova reajuste dos fornecedores das lojas locais.",
+      "consulta": "2026-10-21",
+      "estado": "Conteúdo primário aberto e lido na pesquisa web",
+      "tipo": "contexto do período",
+      "limite": "Não demonstra repasse a cada produto ou loja de Montanha."
+    },
+    {
+      "id": "E05",
+      "instituicao": "Ypê",
+      "titulo": "Amaciante comum e concentrado",
+      "url": "https://www.ype.ind.br/ype-explica/amaciante-concentrado",
+      "publicacao": "Sem data explícita",
+      "periodo": "Fundamento técnico; sem série de preços",
+      "geografia": "Brasil",
+      "cadeia": "Formulação e rendimento",
+      "localizacao": "Seções O que é e Vantagens",
+      "sintese": "Concentração e dosagem alteram rendimento e embalagem. Fonte comercial usada para características, sem endosso de marca.",
+      "consulta": "2026-10-21",
+      "estado": "Conteúdo primário aberto e lido na pesquisa web",
+      "tipo": "fundamento de cadeia",
+      "limite": "Não demonstra repasse a cada produto ou loja de Montanha."
+    },
+    {
+      "id": "E06",
+      "instituicao": "Ypê",
+      "titulo": "Detergente concentrado Neutro+ — especificação",
+      "url": "https://ype.ind.br/produtos/detergente-concentrado-ype-neutro",
+      "publicacao": "Sem data explícita",
+      "periodo": "Especificação consultada em 21/10/2026",
+      "geografia": "Brasil",
+      "cadeia": "Produto acabado",
+      "localizacao": "Embalagem e características",
+      "sintese": "Exemplo de concentrado vendido por massa. Gramas, mililitros e desempenho não são equivalentes automáticos.",
+      "consulta": "2026-10-21",
+      "estado": "Conteúdo primário aberto e lido na pesquisa web",
+      "tipo": "fundamento de cadeia",
+      "limite": "Não demonstra repasse a cada produto ou loja de Montanha."
+    },
+    {
+      "id": "E07",
+      "instituicao": "Suzano / SEC",
+      "titulo": "Resultados do segundo trimestre de 2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/909327/000090932726000064/earningsrelease_2t26xen.htm",
+      "publicacao": "2026-08-12",
+      "periodo": "Abril–junho de 2026",
+      "geografia": "Operações da Suzano",
+      "cadeia": "Celulose e papel",
+      "localizacao": "pp. 7–9 e 14–15",
+      "sintese": "Custos incluem madeira, químicos, energia e logística; o câmbio pode compensar pressões. Celulose não equivale ao preço de um rolo na loja.",
+      "consulta": "2026-10-21",
+      "estado": "Conteúdo primário aberto e lido na pesquisa web",
+      "tipo": "contexto do período",
+      "limite": "Não demonstra repasse a cada produto ou loja de Montanha."
+    },
+    {
+      "id": "E08",
+      "instituicao": "SEI — Governo da Bahia",
+      "titulo": "Cesta básica de Salvador — maio de 2026",
+      "url": "https://www.ba.gov.br/sei/sites/site-sei/files/2026-06/rel_cesta_mai_2026.pdf",
+      "publicacao": "Junho de 2026; dia não indicado",
+      "periodo": "Maio de 2026",
+      "geografia": "Salvador e cadeias discutidas",
+      "cadeia": "Varejo e conjuntura",
+      "localizacao": "pp. 1 e 5",
+      "sintese": "Discute preços e oferta de milho e hortaliças. Tipos de produto e resultados diferem do instrumento escolar.",
+      "consulta": "2026-10-21",
+      "estado": "Conteúdo primário aberto e lido na pesquisa web",
+      "tipo": "contexto do período",
+      "limite": "Não demonstra repasse a cada produto ou loja de Montanha."
+    },
+    {
+      "id": "E09",
+      "instituicao": "Anvisa",
+      "titulo": "RDC 813/2023 — definição de água sanitária",
+      "url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=1696&cod_modulo=134&numeroAto=00000813&orgao=RDC%2FDC%2FANVISA%2FMS&seqAto=000&tipo=RDC&valorAno=2023",
+      "publicacao": "2023-09-01",
+      "periodo": "Definição técnica, sem série de preços",
+      "geografia": "Brasil",
+      "cadeia": "Identidade do produto",
+      "localizacao": "Art. 3º, I",
+      "sintese": "A definição relaciona hipoclorito e cloro ativo de 2,0% a 2,5%. Serve à comparação, sem orientação de uso ou diluição.",
+      "consulta": "2026-10-21",
+      "estado": "Conteúdo primário aberto e lido na pesquisa web",
+      "tipo": "fundamento de cadeia",
+      "limite": "Não demonstra repasse a cada produto ou loja de Montanha."
+    },
+    {
+      "id": "E10",
+      "instituicao": "DIEESE",
+      "titulo": "Metodologia da Pesquisa Nacional da Cesta Básica de Alimentos",
+      "url": "https://www.dieese.org.br/metodologia/metodologiaCestaBasica2025.pdf",
+      "publicacao": "Agosto de 2025",
+      "periodo": "Referência metodológica",
+      "geografia": "Capitais",
+      "cadeia": "Coleta de preços",
+      "localizacao": "Seções Marcas e unidades e Calendário",
+      "sintese": "Marcas, conteúdo e calendário de coleta exigem controle. O estudo escolar tem método e amostra próprios.",
+      "consulta": "2026-10-21",
+      "estado": "Conteúdo primário aberto e lido na pesquisa web",
+      "tipo": "fundamento de cadeia",
+      "limite": "Não demonstra repasse a cada produto ou loja de Montanha."
+    },
+    {
+      "id": "E11",
+      "instituicao": "DNPM / acervo ANM",
+      "titulo": "Sumário Mineral 2010 — sal",
+      "url": "https://www.gov.br/anm/pt-br/assuntos/economia-mineral/publicacoes/sumario-mineral/sumario-mineral-brasileiro-2010",
+      "publicacao": "2012, ficha catalográfica",
+      "periodo": "Dados de 2009; referência histórica",
+      "geografia": "Brasil",
+      "cadeia": "Produção de sal",
+      "localizacao": "p. 108 do PDF, seção Sal",
+      "sintese": "Documento histórico registra sensibilidade da produção às chuvas. Não informa safra nem preços de 2026.",
+      "consulta": "2026-10-21",
+      "estado": "Conteúdo primário aberto e lido na pesquisa web",
+      "tipo": "fundamento de cadeia",
+      "limite": "Não demonstra repasse a cada produto ou loja de Montanha."
+    },
+    {
+      "id": "E12",
+      "instituicao": "Deral — Governo do Paraná",
+      "titulo": "Boletim Conjuntural, semana 25/2026",
+      "url": "https://www.agricultura.pr.gov.br/sites/default/arquivos_restritos/files/documento/2026-06/boletim_semana_25_2026.pdf",
+      "publicacao": "2026-06-18",
+      "periodo": "Maio–junho de 2026 e primeiro trimestre",
+      "geografia": "Paraná e dados nacionais",
+      "cadeia": "Grãos, leite e avicultura",
+      "localizacao": "pp. 3–7",
+      "sintese": "Discute trigo e clima, soja/exportações, produção de ovos e ração de frango. Não acompanha o varejo de Montanha.",
+      "consulta": "2026-10-21",
+      "estado": "Conteúdo primário aberto e lido na pesquisa web",
+      "tipo": "contexto do período",
+      "limite": "Não demonstra repasse a cada produto ou loja de Montanha."
+    },
+    {
+      "id": "E13",
+      "instituicao": "UFJF — Departamento de Química",
+      "titulo": "Projeto de produção de sabão a partir de óleo",
+      "url": "https://www2.ufjf.br/quimica/projetos-de-extensao/oficina-de-producao-de-sabao-em-barra-aproveitando-o-oleo-usado-de-cozinha-economia-sustentavel-na-regiao-de-juiz-de-fora-e-arredores/",
+      "publicacao": "Sem data de publicação; fim do projeto em 30/06/2026",
+      "periodo": "Fundamento químico",
+      "geografia": "Juiz de Fora/MG",
+      "cadeia": "Matéria-prima de sabão",
+      "localizacao": "Resumo",
+      "sintese": "Relação entre óleo e sabão ajuda a compreender insumos. Projeto artesanal não determina a fórmula da barra industrial.",
+      "consulta": "2026-10-21",
+      "estado": "Conteúdo primário aberto e lido na pesquisa web",
+      "tipo": "fundamento de cadeia",
+      "limite": "Não demonstra repasse a cada produto ou loja de Montanha."
+    },
+    {
+      "id": "E14",
+      "instituicao": "Intimus / Kimberly-Clark",
+      "titulo": "Coberturas seca e suave",
+      "url": "https://www.intimus.com.br/artigos/produtos-intimus/diferenca-absorvente-seco-e-suave",
+      "publicacao": "2022-03-24",
+      "periodo": "Especificação, sem série de preços",
+      "geografia": "Brasil",
+      "cadeia": "Absorventes acabados",
+      "localizacao": "Seções sobre coberturas",
+      "sintese": "O fabricante distingue filme de polietileno e não tecido. Variantes não se equivalem apenas pelo número de unidades.",
+      "consulta": "2026-10-21",
+      "estado": "Conteúdo primário aberto e lido na pesquisa web",
+      "tipo": "fundamento de cadeia",
+      "limite": "Não demonstra repasse a cada produto ou loja de Montanha."
+    },
+    {
+      "id": "E15",
+      "instituicao": "Codevasf",
+      "titulo": "Mandiocultura e formas de comercialização",
+      "url": "https://www.gov.br/codevasf/pt-br/assuntos/inclusao-socioprodutiva/arranjos-produtivos-locais/mandiocultura",
+      "publicacao": "2026-04-29",
+      "periodo": "Informação estrutural",
+      "geografia": "Brasil",
+      "cadeia": "Raiz e derivados",
+      "localizacao": "Texto e lista de apresentações",
+      "sintese": "Raiz, farinha, produto preparado e congelado são estágios diferentes, não intercambiáveis nos preços.",
+      "consulta": "2026-10-21",
+      "estado": "Conteúdo primário aberto e lido na pesquisa web",
+      "tipo": "fundamento de cadeia",
+      "limite": "Não demonstra repasse a cada produto ou loja de Montanha."
+    },
+    {
+      "id": "E16",
+      "instituicao": "Embrapa Hortaliças",
+      "titulo": "Tomate industrial — cultivares e rendimento",
+      "url": "https://sistemasdeproducao.cnptia.embrapa.br/FontesHTML/Tomate/TomateIndustrial/cultivares.htm",
+      "publicacao": "Janeiro de 2003",
+      "periodo": "Fundamento agronômico; não é safra de 2026",
+      "geografia": "Brasil",
+      "cadeia": "Tomate para processamento",
+      "localizacao": "Ciclo e Sólidos solúveis",
+      "sintese": "Sólidos influenciam rendimento e energia para concentrar polpa. Tomate fresco não mede diretamente custo de extrato.",
+      "consulta": "2026-10-21",
+      "estado": "Conteúdo primário aberto e lido na pesquisa web",
+      "tipo": "fundamento de cadeia",
+      "limite": "Não demonstra repasse a cada produto ou loja de Montanha."
+    },
+    {
+      "id": "E17",
+      "instituicao": "Conab/Dieese",
+      "titulo": "Cesta básica — maio a junho de 2026",
+      "url": "https://www.gov.br/conab/pt-br/assuntos/noticias/custo-da-cesta-basica-registra-queda-de-precos-em-10-capitais-brasileiras",
+      "publicacao": "2026-07-08; atualização em 10/07",
+      "periodo": "Maio–junho de 2026",
+      "geografia": "27 capitais",
+      "cadeia": "Varejo de alimentos",
+      "localizacao": "Parágrafos de leite, carne e feijão",
+      "sintese": "Problemas de safra afetaram feijão; leite e carne tiveram movimentos distintos entre cidades. Oferta, exportação e demanda compõem o contexto.",
+      "consulta": "2026-10-21",
+      "estado": "Conteúdo primário aberto e lido na pesquisa web",
+      "tipo": "contexto do período",
+      "limite": "Não demonstra repasse a cada produto ou loja de Montanha."
+    },
+    {
+      "id": "E18",
+      "instituicao": "Conab",
+      "titulo": "Alho — análise de abril de 2026",
+      "url": "https://www.gov.br/conab/pt-br/atuacao/informacoes-agropecuarias/analises-do-mercado-agropecuario-e-extrativista/analises-de-mercado/analise-mensal/alho/alho-analise-mensal-2026-1/ALHOAnlisemensalabril2026.pdf",
+      "publicacao": "Dia não indicado no PDF",
+      "periodo": "Abril de 2026 e primeiro quadrimestre",
+      "geografia": "Estados produtores e importações",
+      "cadeia": "Produtor, atacado e importação",
+      "localizacao": "pp. 1–4",
+      "sintese": "Preços diferem por estado, origem e etapa. Importações são documentadas, sem explicar a alta local de setembro.",
+      "consulta": "2026-10-21",
+      "estado": "Conteúdo primário aberto e lido na pesquisa web",
+      "tipo": "contexto do período",
+      "limite": "Não demonstra repasse a cada produto ou loja de Montanha."
+    }
+  ],
+  "analyses": [
+    {
+      "item": "Arroz",
+      "leitura": "A estabilidade entre junho e agosto é seguida por mediana maior em setembro. A Conab descreveu escassez e reposição industrial do cereal em agosto. Esse contexto torna plausível investigar o custo de reposição, inclusive com defasagem; não confirma quando cada loja reajustou o arroz beneficiado.",
+      "fontes": [
+        "E01",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Oferta e estoques",
+          "mecanismo": "Colheita e reposição podem alterar a compra do cereal.",
+          "fontes": [
+            "E01"
+          ]
+        },
+        {
+          "titulo": "Logística",
+          "mecanismo": "Problemas de transporte podem limitar a chegada do produto.",
+          "fontes": [
+            "E01"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "17.5",
+          "minimo": "16.99",
+          "maximo": "21.5",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "18.99",
+          "minimo": "16.99",
+          "maximo": "21.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "17.99",
+          "minimo": "16.99",
+          "maximo": "20.5",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "17.99",
+          "minimo": "13.99",
+          "maximo": "21.98",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "20.48",
+          "minimo": "19.69",
+          "maximo": "23.6",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": true,
+      "embalagens_explicitas": 0,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Feijão carioca",
+      "leitura": "O pico das medianas aparece em junho, seguido por valores menores em agosto/setembro. A Conab relata dificuldades das primeiras safras e avanço da terceira no segundo semestre: sequência compatível com mudanças de oferta. A cobertura local, porém, cai de cinco para três lojas em alguns meses, alterando a composição da mediana.",
+      "fontes": [
+        "E17",
+        "E01",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Safras",
+          "mecanismo": "Quebras e entrada da terceira colheita podem restringir ou ampliar oferta.",
+          "fontes": [
+            "E17",
+            "E01"
+          ]
+        },
+        {
+          "titulo": "Embalagem",
+          "mecanismo": "O registro local de 2 kg exige equivalência com a referência de 5 kg.",
+          "fontes": [
+            "E10"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "39.99",
+          "minimo": "37.89",
+          "maximo": "42.92",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "47.49",
+          "minimo": "38.69",
+          "maximo": "49.5",
+          "n_mercados": 3
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "49.3575",
+          "minimo": "45.19",
+          "maximo": "59.98",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "42.9",
+          "minimo": "38.98",
+          "maximo": "49.99",
+          "n_mercados": 3
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "41.69",
+          "minimo": "39.99",
+          "maximo": "44.5",
+          "n_mercados": 3
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 5,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Açúcar refinado",
+      "leitura": "Após estabilidade nas primeiras coletas, a mediana diminuiu em agosto/setembro. A Conab também registrou recuo do refinado em agosto nas capitais que o pesquisam. A convergência sustenta investigar compra e oferta, mas não identifica a causa do desconto local. Cristal e refinado são produtos distintos.",
+      "fontes": [
+        "E01",
+        "E03",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Tipo de açúcar",
+          "mecanismo": "Cristal e refinado não devem ser misturados na comparação.",
+          "fontes": [
+            "E01",
+            "E10"
+          ]
+        },
+        {
+          "titulo": "Custos industriais",
+          "mecanismo": "Energia, embalagem e matéria-prima podem ter repasses parciais.",
+          "fontes": [
+            "E03"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "16.49",
+          "minimo": "15.98",
+          "maximo": "18.49",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "16.49",
+          "minimo": "15.98",
+          "maximo": "16.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "16.49",
+          "minimo": "13.99",
+          "maximo": "16.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "15.99",
+          "minimo": "14.45",
+          "maximo": "16.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "15.89",
+          "minimo": "13.99",
+          "maximo": "18.99",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": true,
+      "embalagens_explicitas": 0,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Café em pó",
+      "leitura": "As medianas recuaram em agosto/setembro após estabilidade até junho. A Conab relaciona parte da queda do café no varejo das capitais em agosto à menor demanda, mesmo com restrições de oferta. Uma queda de etiqueta não exige safra maior. Mistura, marca e peso do pacote também precisam ser conferidos.",
+      "fontes": [
+        "E01",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Demanda no varejo",
+          "mecanismo": "Vendas menos aquecidas podem conter repasses.",
+          "fontes": [
+            "E01"
+          ]
+        },
+        {
+          "titulo": "Oferta",
+          "mecanismo": "Colheita e exportação integram o contexto, sem determinar a marca local.",
+          "fontes": [
+            "E01"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "26.99",
+          "minimo": "24.5",
+          "maximo": "29.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "26.99",
+          "minimo": "14.99",
+          "maximo": "27.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "27.0",
+          "minimo": "13.99",
+          "maximo": "28.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "25.99",
+          "minimo": "23.5",
+          "maximo": "28.59",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "24.99",
+          "minimo": "21.99",
+          "maximo": "29.8",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": true,
+      "embalagens_explicitas": 0,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Farinha de trigo",
+      "leitura": "A mediana fica igual até junho, sobe em agosto e recua em setembro. O contexto de trigo e derivados em 2026 justifica investigar moagem e reposição, mas não explica sozinho a queda final. Contratos, lotes e marcas podem fazer a farinha de supermercado divergir do cereal e do pão.",
+      "fontes": [
+        "E12",
+        "E01",
+        "E03",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Safra e qualidade",
+          "mecanismo": "Clima pode afetar a disponibilidade de grão para moagem.",
+          "fontes": [
+            "E12"
+          ]
+        },
+        {
+          "titulo": "Moagem e embalagem",
+          "mecanismo": "Transformação, energia e entrega acrescentam custos ao cereal.",
+          "fontes": [
+            "E03"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "4.99",
+          "minimo": "4.55",
+          "maximo": "5.6",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "4.99",
+          "minimo": "3.99",
+          "maximo": "9.4",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "4.99",
+          "minimo": "3.69",
+          "maximo": "7.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "5.3",
+          "minimo": "3.49",
+          "maximo": "7.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "4.49",
+          "minimo": "3.89",
+          "maximo": "5.6",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": true,
+      "embalagens_explicitas": 0,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Farinha de mandioca",
+      "leitura": "A mediana recua em maio/junho e cresce no final da série, com cobertura variável. Raiz e farinha ocupam etapas diferentes da cadeia. As fontes sustentam investigar beneficiamento e tipo da farinha; não foi comprovada quebra de safra ou reajuste industrial específico que justifique a alta local de setembro.",
+      "fontes": [
+        "E15",
+        "E03",
+        "E10"
+      ],
+      "tipo_evidencia": "fundamento de cadeia",
+      "fatores": [
+        {
+          "titulo": "Tipo e apresentação",
+          "mecanismo": "Crua, torrada e outras apresentações podem diferir.",
+          "fontes": [
+            "E15"
+          ]
+        },
+        {
+          "titulo": "Beneficiamento",
+          "mecanismo": "Energia, embalagem e transporte influenciam o produto acabado.",
+          "fontes": [
+            "E03"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "5.79",
+          "minimo": "4.945",
+          "maximo": "9.95",
+          "n_mercados": 3
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "4.29",
+          "minimo": "2.49",
+          "maximo": "5.69",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "4.29",
+          "minimo": "2.995",
+          "maximo": "4.99",
+          "n_mercados": 3
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "4.5",
+          "minimo": "2.995",
+          "maximo": "8.25",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "5.99",
+          "minimo": "4.29",
+          "maximo": "10.25",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 5,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Batata",
+      "leitura": "A mediana elevada em maio diminui até agosto e volta a crescer em setembro. A Conab documenta maior oferta e queda no atacado em agosto, em linha com parte do movimento local. O boletim não explica o repique de setembro: origem, qualidade e data da reposição são hipóteses a verificar.",
+      "fontes": [
+        "E02",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Entrada de safra",
+          "mecanismo": "Disponibilidade adicional pode reduzir a cotação atacadista.",
+          "fontes": [
+            "E02"
+          ]
+        },
+        {
+          "titulo": "Origem e reposição",
+          "mecanismo": "A queda na Ceasa não chega necessariamente no mesmo dia à loja.",
+          "fontes": [
+            "E02"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "5.99",
+          "minimo": "5.29",
+          "maximo": "6.6",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "10.945",
+          "minimo": "6.59",
+          "maximo": "11.2",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "8.99",
+          "minimo": "7.99",
+          "maximo": "10.99",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "5.6",
+          "minimo": "4.99",
+          "maximo": "10.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "6.49",
+          "minimo": "5.0",
+          "maximo": "8.4",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 0,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Cebola",
+      "leitura": "A mediana cresce até junho, recua em agosto e sobe em setembro. A Conab descreve queda atacadista em agosto e mudança das regiões fornecedoras. Há compatibilidade no recuo intermediário; a alta final não está demonstrada como efeito climático. A cobertura de junho também difere dos outros meses.",
+      "fontes": [
+        "E02",
+        "E08",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Região fornecedora",
+          "mecanismo": "Transição de abastecimento entre estados altera disponibilidade.",
+          "fontes": [
+            "E02"
+          ]
+        },
+        {
+          "titulo": "Clima e armazenamento",
+          "mecanismo": "Atrasos e problemas pós-colheita podem limitar lotes comerciais.",
+          "fontes": [
+            "E08"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "5.49",
+          "minimo": "4.19",
+          "maximo": "6.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "6.65",
+          "minimo": "5.69",
+          "maximo": "7.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "7.495",
+          "minimo": "6.19",
+          "maximo": "8.99",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "6.98",
+          "minimo": "5.59",
+          "maximo": "11.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "7.7",
+          "minimo": "6.19",
+          "maximo": "8.0",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 0,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Alho",
+      "leitura": "A mediana de setembro supera as primeiras coletas. O boletim de abril registra diferenças por origem, estado e estágio de comercialização. Sustenta investigar importações e fornecedores, mas não prova falta de alho em setembro. Sem origem, classe e tamanho do bulbo, a troca de qualidade também pode interferir.",
+      "fontes": [
+        "E18",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Importação",
+          "mecanismo": "Procedência e custo importado podem afetar a reposição.",
+          "fontes": [
+            "E18"
+          ]
+        },
+        {
+          "titulo": "Classe e calibre",
+          "mecanismo": "Alhos de classificações diferentes podem ter preços distintos.",
+          "fontes": [
+            "E18"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "22.4",
+          "minimo": "11.99",
+          "maximo": "24.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "23.8",
+          "minimo": "15.99",
+          "maximo": "29.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "22.995",
+          "minimo": "14.99",
+          "maximo": "33.99",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "24.0",
+          "minimo": "16.19",
+          "maximo": "34.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "27.0",
+          "minimo": "15.99",
+          "maximo": "33.99",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 0,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Ovos brancos",
+      "leitura": "A mediana oscila, fica maior em agosto e recua em setembro, com três a cinco lojas por mês. O Deral documenta produção e custos da avicultura, sem acompanhar essas lojas. Oferta, ração e vendas são mecanismos a investigar; bandeja, quantidade e classificação dos ovos precisam ser confirmadas antes de interpretar o salto.",
+      "fontes": [
+        "E12",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Ração e produção",
+          "mecanismo": "Milho, farelo e oferta integram o contexto da avicultura.",
+          "fontes": [
+            "E12"
+          ]
+        },
+        {
+          "titulo": "Unidades",
+          "mecanismo": "Dúzia, bandeja e classificação devem ser equivalentes.",
+          "fontes": [
+            "E10"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "10.095",
+          "minimo": "9.8",
+          "maximo": "11.99",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "9.695",
+          "minimo": "9.0",
+          "maximo": "9.99",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "9.99",
+          "minimo": "8.99",
+          "maximo": "15.99",
+          "n_mercados": 3
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "11.0",
+          "minimo": "9.1",
+          "maximo": "16.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "8.545",
+          "minimo": "8.0",
+          "maximo": "9.09",
+          "n_mercados": 4
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 0,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Margarina",
+      "leitura": "O pico de agosto usa quatro mercados; setembro volta a cinco e a mediana recua. Parte do movimento pode decorrer dessa composição. Óleos vegetais são condição de investigação, mas a fórmula de cada margarina não foi verificada. Não se pode atribuir a oscilação automaticamente à soja.",
+      "fontes": [
+        "E12",
+        "E03",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Óleos e gorduras",
+          "mecanismo": "Custos podem importar conforme os ingredientes da formulação.",
+          "fontes": [
+            "E12",
+            "E03"
+          ]
+        },
+        {
+          "titulo": "Tipo e pote",
+          "mecanismo": "Teor de gordura, variante e conteúdo precisam ser conferidos.",
+          "fontes": [
+            "E10"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "5.39",
+          "minimo": "3.99",
+          "maximo": "7.79",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "5.39",
+          "minimo": "4.6",
+          "maximo": "5.89",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "5.49",
+          "minimo": "4.3",
+          "maximo": "5.79",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "6.295",
+          "minimo": "5.29",
+          "maximo": "7.99",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "5.29",
+          "minimo": "4.6",
+          "maximo": "7.09",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 0,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Extrato de tomate",
+      "leitura": "A mediana aumenta em agosto e permanece em setembro. A Embrapa relaciona rendimento industrial aos sólidos da matéria-prima e à energia para concentrar a polpa. Isso sustenta investigar a indústria, mas não explicar o pote pelo tomate fresco das Ceasas. Marca, concentração e massa são controles fundamentais.",
+      "fontes": [
+        "E16",
+        "E03",
+        "E10"
+      ],
+      "tipo_evidencia": "fundamento de cadeia",
+      "fatores": [
+        {
+          "titulo": "Rendimento industrial",
+          "mecanismo": "Sólidos do fruto afetam rendimento e energia do processamento.",
+          "fontes": [
+            "E16"
+          ]
+        },
+        {
+          "titulo": "Produto e embalagem",
+          "mecanismo": "Molho, polpa e extrato não são equivalentes automáticos.",
+          "fontes": [
+            "E16",
+            "E10"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "1.99",
+          "minimo": "1.75",
+          "maximo": "3.29",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "2.15",
+          "minimo": "1.95",
+          "maximo": "3.29",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "1.99",
+          "minimo": "1.98",
+          "maximo": "3.29",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "2.49",
+          "minimo": "1.98",
+          "maximo": "3.69",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "2.49",
+          "minimo": "2.25",
+          "maximo": "2.59",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": true,
+      "embalagens_explicitas": 6,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Óleo de soja",
+      "leitura": "A mediana alterna patamares e volta a aumentar em setembro após recuo em agosto. A Conab observou pressão no óleo nas capitais em agosto; o Deral acompanha o comércio da soja. Isso fundamenta investigar reposição e demanda, mas uma cotação do grão ou tendência nacional não determina a etiqueta mensal local.",
+      "fontes": [
+        "E01",
+        "E12",
+        "E03",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Mercado da soja",
+          "mecanismo": "Demanda e escoamento podem modificar a cadeia de insumos.",
+          "fontes": [
+            "E12"
+          ]
+        },
+        {
+          "titulo": "Refino e distribuição",
+          "mecanismo": "Transformação e entrega também compõem o custo do óleo engarrafado.",
+          "fontes": [
+            "E03"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "8.49",
+          "minimo": "7.99",
+          "maximo": "9.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "8.49",
+          "minimo": "7.99",
+          "maximo": "9.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "8.98",
+          "minimo": "7.99",
+          "maximo": "13.98",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "8.49",
+          "minimo": "8.25",
+          "maximo": "9.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "8.98",
+          "minimo": "8.79",
+          "maximo": "9.99",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": true,
+      "embalagens_explicitas": 0,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Farinha de milho",
+      "leitura": "A mediana varia com três a cinco lojas e atinge mínimo em agosto. A SEI descreve milho mais disponível em maio; é contexto para o insumo, sem prova de repasse ao pacote. A recuperação final pode envolver marcas, tipos e volta de mercados à amostra, sem causa única comprovada.",
+      "fontes": [
+        "E08",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Oferta de milho",
+          "mecanismo": "Colheita e estoques podem mudar a compra da matéria-prima.",
+          "fontes": [
+            "E08"
+          ]
+        },
+        {
+          "titulo": "Tipo do derivado",
+          "mecanismo": "Flocão, fubá e farinha precisam ser identificados antes de comparar.",
+          "fontes": [
+            "E10"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "3.42",
+          "minimo": "2.345",
+          "maximo": "4.59",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "3.54",
+          "minimo": "3.29",
+          "maximo": "3.98",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "3.39",
+          "minimo": "2.34",
+          "maximo": "4.49",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "2.95",
+          "minimo": "2.89",
+          "maximo": "2.99",
+          "n_mercados": 3
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "3.79",
+          "minimo": "2.95",
+          "maximo": "5.79",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 4,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Leite UHT",
+      "leitura": "A mediana cresce até agosto e recua parcialmente em setembro. A Conab registrou leite mais caro em muitas capitais; o Deral mostra diferenças regionais de produção. A reposição é uma hipótese relevante, mas leite cru e UHT são medidas diferentes: processamento, contratos e marca podem produzir defasagens.",
+      "fontes": [
+        "E01",
+        "E17",
+        "E12",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Oferta no campo",
+          "mecanismo": "Captação e disponibilidade alteram condições de compra da indústria.",
+          "fontes": [
+            "E12"
+          ]
+        },
+        {
+          "titulo": "Demanda e reposição",
+          "mecanismo": "Vendas e produto acabado podem limitar ou favorecer repasses.",
+          "fontes": [
+            "E01",
+            "E10"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "5.79",
+          "minimo": "5.29",
+          "maximo": "6.49",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "5.99",
+          "minimo": "5.69",
+          "maximo": "6.65",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "6.0",
+          "minimo": "5.59",
+          "maximo": "7.29",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "7.15",
+          "minimo": "5.99",
+          "maximo": "7.69",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "6.9",
+          "minimo": "5.98",
+          "maximo": "6.99",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": true,
+      "embalagens_explicitas": 0,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Sal",
+      "leitura": "A mediana oscila pouco e termina abaixo do início. A referência mineral é histórica: mostra sensibilidade da produção às chuvas, mas não descreve 2026. Portanto, não se atribui a queda local ao clima. Beneficiamento, frete e marca são condições a investigar, além do próprio insumo.",
+      "fontes": [
+        "E11",
+        "E03",
+        "E10"
+      ],
+      "tipo_evidencia": "fundamento de cadeia",
+      "fatores": [
+        {
+          "titulo": "Produção",
+          "mecanismo": "Chuvas podem afetar produção; a fonte não diagnostica 2026.",
+          "fontes": [
+            "E11"
+          ]
+        },
+        {
+          "titulo": "Beneficiamento e entrega",
+          "mecanismo": "Energia, embalagem e transporte podem participar do custo final.",
+          "fontes": [
+            "E03"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "2.59",
+          "minimo": "2.1",
+          "maximo": "2.9",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "2.49",
+          "minimo": "1.9",
+          "maximo": "2.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "2.44",
+          "minimo": "1.9",
+          "maximo": "2.99",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "2.49",
+          "minimo": "1.9",
+          "maximo": "2.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "2.39",
+          "minimo": "1.9",
+          "maximo": "2.99",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 0,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Pão francês",
+      "leitura": "A mediana é igual nas cinco coletas, mas representa só dois mercados por mês. Isso não demonstra estabilidade em todas as padarias. A Conab discute pressão do trigo e da farinha em agosto. A divergência local sugere investigar preço mantido, custos absorvidos e unidade de venda, sem afirmar que ocorreu alguma dessas situações.",
+      "fontes": [
+        "E01",
+        "E03",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Farinha",
+          "mecanismo": "Alteração do custo do trigo pode pressionar a cadeia do pão.",
+          "fontes": [
+            "E01"
+          ]
+        },
+        {
+          "titulo": "Produção e unidade",
+          "mecanismo": "Energia e venda por kg ou unidade devem ser conferidas.",
+          "fontes": [
+            "E03",
+            "E10"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "15.485",
+          "minimo": "14.99",
+          "maximo": "15.98",
+          "n_mercados": 2
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "15.485",
+          "minimo": "14.99",
+          "maximo": "15.98",
+          "n_mercados": 2
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "15.485",
+          "minimo": "14.99",
+          "maximo": "15.98",
+          "n_mercados": 2
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "15.485",
+          "minimo": "14.99",
+          "maximo": "15.98",
+          "n_mercados": 2
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "15.485",
+          "minimo": "14.99",
+          "maximo": "15.98",
+          "n_mercados": 2
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 0,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Macarrão espaguete com ovos",
+      "leitura": "Após oscilar no primeiro semestre, a mediana recua em agosto e recupera parte em setembro. Trigo é relevante, mas não explica sozinho esse desenho. Receita, contratos e troca de marca precisam ser examinados: a evidência setorial sustenta essas perguntas, sem comprovar redução de custo específica deste espaguete.",
+      "fontes": [
+        "E03",
+        "E12",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Cereal e receita",
+          "mecanismo": "Disponibilidade do trigo e composição da massa influenciam a cadeia.",
+          "fontes": [
+            "E12",
+            "E10"
+          ]
+        },
+        {
+          "titulo": "Conteúdo e indústria",
+          "mecanismo": "Gramatura, energia e embalagem podem alterar custo e comparação.",
+          "fontes": [
+            "E03",
+            "E10"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "5.99",
+          "minimo": "4.69",
+          "maximo": "8.29",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "6.29",
+          "minimo": "3.99",
+          "maximo": "8.19",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "5.99",
+          "minimo": "4.35",
+          "maximo": "8.19",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "4.39",
+          "minimo": "3.495",
+          "maximo": "6.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "4.89",
+          "minimo": "3.66",
+          "maximo": "7.99",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": true,
+      "embalagens_explicitas": 2,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Biscoito maizena",
+      "leitura": "O mínimo das medianas aparece em agosto, quando a cobertura cai a quatro mercados. A alta de setembro deve ser lida com a volta do quinto e as marcas anotadas. Ingredientes e embalagens compõem custos; não foi comprovada mudança mensal específica deste biscoito que explique sozinha a oscilação.",
+      "fontes": [
+        "E03",
+        "E10"
+      ],
+      "tipo_evidencia": "fundamento de cadeia",
+      "fatores": [
+        {
+          "titulo": "Ingredientes e indústria",
+          "mecanismo": "Matérias-primas, energia e embalagem podem alterar custos.",
+          "fontes": [
+            "E03"
+          ]
+        },
+        {
+          "titulo": "Pacote e variante",
+          "mecanismo": "Peso e produto identificado precisam ser equivalentes.",
+          "fontes": [
+            "E10"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "4.86",
+          "minimo": "4.39",
+          "maximo": "6.49",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "5.79",
+          "minimo": "4.39",
+          "maximo": "7.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "4.66",
+          "minimo": "2.995",
+          "maximo": "5.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "3.69",
+          "minimo": "2.944444444444444444444444444",
+          "maximo": "4.437037037037037037037037037",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "5.19",
+          "minimo": "4.09",
+          "maximo": "7.49",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 7,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Biscoito água e sal",
+      "leitura": "A mediana cai em junho, permanece em agosto e retorna ao valor inicial em setembro. Custos industriais incluem ingredientes, processamento e embalagem. O trigo não se transfere integralmente ao pacote; sem custos e condições comerciais das lojas, apontamos mecanismos possíveis e a necessidade de conferir marcas e pesos.",
+      "fontes": [
+        "E03",
+        "E12",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Cereal",
+          "mecanismo": "Oferta do trigo é contexto, não medida do custo total do biscoito.",
+          "fontes": [
+            "E12"
+          ]
+        },
+        {
+          "titulo": "Processamento",
+          "mecanismo": "Energia, combustível e embalagem podem modificar custos industriais.",
+          "fontes": [
+            "E03"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "5.45",
+          "minimo": "3.994285714285714285714285714",
+          "maximo": "7.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "5.69",
+          "minimo": "4.99",
+          "maximo": "6.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "4.99",
+          "minimo": "2.995",
+          "maximo": "5.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "4.99",
+          "minimo": "2.944444444444444444444444444",
+          "maximo": "7.29",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "5.45",
+          "minimo": "4.09",
+          "maximo": "7.29",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": true,
+      "embalagens_explicitas": 7,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Carne de primeira",
+      "leitura": "A mediana recua de maio para junho e volta a patamar maior em setembro. A Conab descreve pressões de oferta e exportação, mas também quedas locais por demanda fraca em algumas capitais. Sinais opostos são possíveis. Sem padronizar o corte encontrado, nem toda diferença representa reajuste da mesma carne.",
+      "fontes": [
+        "E17",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Oferta e exportação",
+          "mecanismo": "Disponibilidade interna pode modificar a negociação.",
+          "fontes": [
+            "E17"
+          ]
+        },
+        {
+          "titulo": "Demanda e corte",
+          "mecanismo": "Consumo e identificação do corte podem mudar o preço observado.",
+          "fontes": [
+            "E17",
+            "E10"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "49.99",
+          "minimo": "39.99",
+          "maximo": "65.0",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "59.99",
+          "minimo": "44.0",
+          "maximo": "68.0",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "48.99",
+          "minimo": "44.0",
+          "maximo": "66.49",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "49.99",
+          "minimo": "48.69",
+          "maximo": "53.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "58.0",
+          "minimo": "49.99",
+          "maximo": "81.0",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": true,
+      "embalagens_explicitas": 1,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Carne de segunda",
+      "leitura": "A mediana aumenta no fim da série; abril tem cobertura menor. A fonte externa trata de carne de primeira: é contexto bovino, não medição direta da segunda. Oferta e procura por cortes são hipóteses; troca entre acém, paleta e outros cortes pode modificar o preço sem representar reajuste do mesmo produto.",
+      "fontes": [
+        "E17",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Abastecimento",
+          "mecanismo": "Oferta e exportação podem afetar a cadeia de forma diferente por corte.",
+          "fontes": [
+            "E17"
+          ]
+        },
+        {
+          "titulo": "Identificação do corte",
+          "mecanismo": "A categoria de segunda exige conferir a carne efetivamente encontrada.",
+          "fontes": [
+            "E10"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "36.995",
+          "minimo": "35.0",
+          "maximo": "38.99",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "37.99",
+          "minimo": "35.0",
+          "maximo": "43.49",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "36.0",
+          "minimo": "29.0",
+          "maximo": "46.09",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "38.99",
+          "minimo": "29.0",
+          "maximo": "45.0",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "46.0",
+          "minimo": "29.0",
+          "maximo": "46.99",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 0,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Frango resfriado inteiro",
+      "leitura": "As medianas diminuem ao longo das cinco coletas. O Deral documenta alívio nos custos de ração em maio: mecanismo compatível com parte do período, sem prova de repasse nem explicação de toda a queda. Estado resfriado/congelado, miúdos, marca e preço por kg precisam permanecer comparáveis.",
+      "fontes": [
+        "E12",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Ração",
+          "mecanismo": "Milho e farelo de soja integram os custos da criação.",
+          "fontes": [
+            "E12"
+          ]
+        },
+        {
+          "titulo": "Apresentação",
+          "mecanismo": "Resfriado, congelado e preços por peça ou kg não se equivalem.",
+          "fontes": [
+            "E10"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "14.98",
+          "minimo": "14.39",
+          "maximo": "15.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "14.0",
+          "minimo": "11.99",
+          "maximo": "14.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "12.99",
+          "minimo": "10.99",
+          "maximo": "14.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "12.09",
+          "minimo": "9.99",
+          "maximo": "14.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "11.99",
+          "minimo": "10.99",
+          "maximo": "17.9",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": true,
+      "embalagens_explicitas": 1,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Mamão",
+      "leitura": "As medianas caem até agosto e sobem um pouco em setembro, com apenas dois ou três mercados válidos. A maior oferta documentada pela Conab em agosto, inclusive no Espírito Santo, é contexto compatível com a queda intermediária. Amostra pequena e troca entre papaya/formosa impedem atribuir toda a trajetória à oferta.",
+      "fontes": [
+        "E02",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Oferta e variedade",
+          "mecanismo": "A disponibilidade pode variar entre papaya e formosa.",
+          "fontes": [
+            "E02"
+          ]
+        },
+        {
+          "titulo": "Qualidade e unidade",
+          "mecanismo": "Maturação e venda por unidade ou kg exigem conferência.",
+          "fontes": [
+            "E10"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "11.99",
+          "minimo": "10.99",
+          "maximo": "12.99",
+          "n_mercados": 2
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "12.74",
+          "minimo": "9.99",
+          "maximo": "15.49",
+          "n_mercados": 2
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "7.89",
+          "minimo": "5.99",
+          "maximo": "13.99",
+          "n_mercados": 3
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "6.99",
+          "minimo": "5.99",
+          "maximo": "7.99",
+          "n_mercados": 2
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "7.24",
+          "minimo": "5.49",
+          "maximo": "8.99",
+          "n_mercados": 2
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 0,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Banana",
+      "leitura": "A mediana aumenta até agosto e recua em setembro. A Conab registra média atacadista maior em agosto, mas com quedas em algumas praças. Essa diversidade regional importa: concordância no pico não explica a queda final. Variedade, qualidade e origem são hipóteses que precisam ser verificadas para os lotes locais.",
+      "fontes": [
+        "E02",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Oferta regional",
+          "mecanismo": "Regiões podem apresentar condições diferentes no mesmo mês.",
+          "fontes": [
+            "E02"
+          ]
+        },
+        {
+          "titulo": "Demanda e qualidade",
+          "mecanismo": "O boletim relaciona esses fatores à formação do preço atacadista.",
+          "fontes": [
+            "E02"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "4.99",
+          "minimo": "4.59",
+          "maximo": "6.5",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "5.6",
+          "minimo": "4.29",
+          "maximo": "6.5",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "5.645",
+          "minimo": "3.99",
+          "maximo": "6.5",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "6.5",
+          "minimo": "4.59",
+          "maximo": "7.49",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "4.49",
+          "minimo": "3.99",
+          "maximo": "6.5",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 0,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Mandioca",
+      "leitura": "A mediana permanece igual por três meses, cai em agosto e recupera parte em setembro. Agosto representa só uma loja, não tendência municipal. A Codevasf distingue raiz, produto preparado e derivados. Sem confirmar apresentação, origem e cobertura, não é possível justificar a oscilação como efeito de safra.",
+      "fontes": [
+        "E15",
+        "E10"
+      ],
+      "tipo_evidencia": "fundamento de cadeia",
+      "fatores": [
+        {
+          "titulo": "Apresentação",
+          "mecanismo": "Raiz, preparada e congelada ocupam estágios comerciais distintos.",
+          "fontes": [
+            "E15"
+          ]
+        },
+        {
+          "titulo": "Oferta e destino",
+          "mecanismo": "Há consumo direto e usos em derivados; falta a origem dos lotes locais.",
+          "fontes": [
+            "E15"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "10.99",
+          "minimo": "10.99",
+          "maximo": "10.99",
+          "n_mercados": 1
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "10.99",
+          "minimo": "8.99",
+          "maximo": "14.98",
+          "n_mercados": 3
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "10.99",
+          "minimo": "7.99",
+          "maximo": "11.98",
+          "n_mercados": 3
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "4.99",
+          "minimo": "4.99",
+          "maximo": "4.99",
+          "n_mercados": 1
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "7.99",
+          "minimo": "5.99",
+          "maximo": "10.99",
+          "n_mercados": 3
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 0,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Sabão em pó",
+      "leitura": "A mediana salta em maio, recua em junho e diminui em setembro; abril usa só três lojas. Uma empresa de cuidados do lar relata pressão de insumos em 2026, mas esse contexto global não explica o salto local. Marca, conteúdo e concentração são controles prioritários antes de atribuir a curva a custos industriais.",
+      "fontes": [
+        "E04",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Insumos e embalagem",
+          "mecanismo": "Custos podem mudar sem repasse igual entre marcas.",
+          "fontes": [
+            "E04"
+          ]
+        },
+        {
+          "titulo": "Fórmula e pacote",
+          "mecanismo": "Concentração e massa exigem identificação do produto.",
+          "fontes": [
+            "E10"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "8.5",
+          "minimo": "8.49",
+          "maximo": "9.36875",
+          "n_mercados": 3
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "14.39",
+          "minimo": "8.49",
+          "maximo": "21.09",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "10.99",
+          "minimo": "5.99",
+          "maximo": "14.39",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "11.99333333333333333333333333",
+          "minimo": "7.5",
+          "maximo": "14.39",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "9.36875",
+          "minimo": "8.49",
+          "maximo": "14.39",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 8,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Sabão em barra",
+      "leitura": "A mediana atinge pico em agosto e recua em setembro, com mudança de cobertura. A UFJF documenta a relação entre óleo e fabricação de sabão; isso fundamenta investigar insumos, sem identificar a fórmula industrial coletada. Peso, pacote múltiplo e variante são condições verificáveis antes de atribuir a oscilação a uma causa econômica única.",
+      "fontes": [
+        "E13",
+        "E04",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Óleos e fórmula",
+          "mecanismo": "Custo de ingredientes pode importar conforme a receita industrial.",
+          "fontes": [
+            "E13"
+          ]
+        },
+        {
+          "titulo": "Industrialização",
+          "mecanismo": "Embalagem e logística participam da cadeia de produtos de limpeza.",
+          "fontes": [
+            "E04"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "3.24",
+          "minimo": "2.29",
+          "maximo": "3.8",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "3.79",
+          "minimo": "2.29",
+          "maximo": "5.98",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "3.79",
+          "minimo": "2.99",
+          "maximo": "4.95",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "4.39",
+          "minimo": "2.29",
+          "maximo": "5.98",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "3.5",
+          "minimo": "2.29",
+          "maximo": "6.69",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 0,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Água sanitária",
+      "leitura": "As medianas recuam até junho e sobem moderadamente depois, com quatro ou cinco lojas. A definição técnica da Anvisa ajuda a distinguir água sanitária de outro alvejante. Volume, identidade e marca precisam ser conferidos; não foi demonstrada alteração mensal do custo do hipoclorito que explique a curva local.",
+      "fontes": [
+        "E09",
+        "E04",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Identidade e teor",
+          "mecanismo": "Categoria e cloro ativo ajudam a comparar formulações.",
+          "fontes": [
+            "E09"
+          ]
+        },
+        {
+          "titulo": "Frasco e entrega",
+          "mecanismo": "Embalagem e logística podem contribuir para o custo acabado.",
+          "fontes": [
+            "E04"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "3.535",
+          "minimo": "2.99",
+          "maximo": "5.49",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "3.3",
+          "minimo": "2.59",
+          "maximo": "3.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "3.14",
+          "minimo": "2.99",
+          "maximo": "3.99",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "3.19",
+          "minimo": "2.99",
+          "maximo": "3.5",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "3.34",
+          "minimo": "2.99",
+          "maximo": "3.69",
+          "n_mercados": 4
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 0,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Amaciante",
+      "leitura": "A mediana aumenta em junho/agosto e volta em setembro ao início. O fabricante distingue concentração e dosagem: mesmo volume não garante mesmo rendimento. Sem a variante encontrada, não se sabe se o pico envolve reajuste, formulação ou condição comercial. A fonte técnica explica a comparação, não o mês da oscilação.",
+      "fontes": [
+        "E05",
+        "E04",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Concentração",
+          "mecanismo": "Tradicional e concentrado podem ter rendimentos diferentes.",
+          "fontes": [
+            "E05"
+          ]
+        },
+        {
+          "titulo": "Frasco e dosagem",
+          "mecanismo": "Comparação por uso exige rótulo; não se presume rendimento na base.",
+          "fontes": [
+            "E05"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "8.49",
+          "minimo": "5.49",
+          "maximo": "10.0",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "8.49",
+          "minimo": "6.99",
+          "maximo": "10.39",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "9.44",
+          "minimo": "7.49",
+          "maximo": "10.49",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "10.19",
+          "minimo": "6.49",
+          "maximo": "12.09",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "8.49",
+          "minimo": "5.99",
+          "maximo": "12.75",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 0,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Detergente líquido",
+      "leitura": "A mediana diminui até junho e retorna em agosto ao valor de abril. O fabricante apresenta concentrado vendido por massa: volume, massa e rendimento não são equivalentes automáticos. A série não comprova repasse de custos químicos. Fórmula, conteúdo e marca permanecem os primeiros controles da comparação.",
+      "fontes": [
+        "E06",
+        "E04",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Formulação",
+          "mecanismo": "Concentrado e convencional podem diferir no desempenho.",
+          "fontes": [
+            "E06"
+          ]
+        },
+        {
+          "titulo": "Unidade",
+          "mecanismo": "Não converter gramas em mililitros sem informação física adequada.",
+          "fontes": [
+            "E06"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "2.99",
+          "minimo": "2.69",
+          "maximo": "5.28",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "2.8",
+          "minimo": "2.19",
+          "maximo": "2.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "2.79",
+          "minimo": "2.19",
+          "maximo": "3.8",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "2.99",
+          "minimo": "2.19",
+          "maximo": "3.75",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "2.99",
+          "minimo": "2.69",
+          "maximo": "3.49",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": true,
+      "embalagens_explicitas": 0,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Papel higiênico",
+      "leitura": "A mediana cresce e a cobertura passa de três a cinco lojas. Uma produtora de celulose documenta custos de madeira, químicos e energia em 2026: via plausível de pressão, sem comprovar repasse ao rolo. Metragem, folhas e quantidade de rolos podem alterar substancialmente o que está sendo comparado.",
+      "fontes": [
+        "E07",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Celulose e energia",
+          "mecanismo": "Custos produtivos e câmbio podem pressionar ou compensar a cadeia.",
+          "fontes": [
+            "E07"
+          ]
+        },
+        {
+          "titulo": "Metragem e folhas",
+          "mecanismo": "Mesmo número de rolos não garante a mesma quantidade de papel.",
+          "fontes": [
+            "E10"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "3.78",
+          "minimo": "2.99",
+          "maximo": "4.49",
+          "n_mercados": 3
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "3.795",
+          "minimo": "2.99",
+          "maximo": "4.49",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "4.24",
+          "minimo": "3.49",
+          "maximo": "7.25",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "4.49",
+          "minimo": "3.49",
+          "maximo": "8.09",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "4.69",
+          "minimo": "4.49",
+          "maximo": "6.5",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 0,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Creme dental",
+      "leitura": "As medianas oscilam e setembro fica abaixo de abril, sem trajetória contínua. O relato empresarial de custos de 2026 oferece contexto, mas não comprova reajuste de uma pasta específica. Fórmula, variante e massa do tubo devem permanecer equivalentes; troca de marca pode pesar mais que uma tendência geral.",
+      "fontes": [
+        "E04",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Formulação e conteúdo",
+          "mecanismo": "Variante e massa do tubo precisam ser conferidas.",
+          "fontes": [
+            "E10"
+          ]
+        },
+        {
+          "titulo": "Custos industriais",
+          "mecanismo": "Relato global não determina o preço da marca na loja.",
+          "fontes": [
+            "E04"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "5.99",
+          "minimo": "4.49",
+          "maximo": "7.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "4.49",
+          "minimo": "3.29",
+          "maximo": "7.25",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "5.34",
+          "minimo": "3.99",
+          "maximo": "6.99",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "4.49",
+          "minimo": "3.49",
+          "maximo": "5.2",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "5.39",
+          "minimo": "3.49",
+          "maximo": "7.6",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 1,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Sabonete",
+      "leitura": "As medianas recuam até agosto e têm pequena recuperação em setembro, com cobertura variável. Custos do setor de cuidados pessoais não determinam esse desenho. Deve-se distinguir gramatura, marca e tipo: a base pode refletir troca de produto. Não há evidência para atribuir a queda a uma redução geral de custos industriais.",
+      "fontes": [
+        "E04",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Peso e variante",
+          "mecanismo": "Mudança de conteúdo ou produto altera a comparação.",
+          "fontes": [
+            "E10"
+          ]
+        },
+        {
+          "titulo": "Insumos e embalagem",
+          "mecanismo": "Pressões industriais podem ter repasse incerto.",
+          "fontes": [
+            "E04"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "4.24",
+          "minimo": "1.99",
+          "maximo": "6.49",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "2.75",
+          "minimo": "2.24",
+          "maximo": "4.49",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "1.99",
+          "minimo": "1.69",
+          "maximo": "1.99",
+          "n_mercados": 3
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "1.595",
+          "minimo": "1.5",
+          "maximo": "2.49",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "1.74",
+          "minimo": "1.5",
+          "maximo": "2.0",
+          "n_mercados": 4
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 4,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Desodorante spray",
+      "leitura": "A mediana de setembro retorna a abril, após alta em maio e queda em agosto. Agosto tem só duas lojas: o vale é sensível à cobertura. Custos industriais fundamentam perguntas sobre reposição, sem comprovar causa. Aerossol, spray e outras apresentações devem ser distinguidos no histórico.",
+      "fontes": [
+        "E04",
+        "E10"
+      ],
+      "tipo_evidencia": "contexto do período",
+      "fatores": [
+        {
+          "titulo": "Apresentação e conteúdo",
+          "mecanismo": "Tipo de aplicação, volume e massa exigem conferência.",
+          "fontes": [
+            "E10"
+          ]
+        },
+        {
+          "titulo": "Embalagem e logística",
+          "mecanismo": "Custos empresariais são contexto, sem repasse local verificado.",
+          "fontes": [
+            "E04"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "9.985",
+          "minimo": "7.79",
+          "maximo": "11.99",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "11.99",
+          "minimo": "6.99",
+          "maximo": "13.98",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "10.985",
+          "minimo": "5.0",
+          "maximo": "12.49",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "9.79",
+          "minimo": "7.09",
+          "maximo": "12.49",
+          "n_mercados": 2
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "9.985",
+          "minimo": "7.98",
+          "maximo": "12.49",
+          "n_mercados": 4
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 5,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    },
+    {
+      "item": "Absorvente aderente",
+      "leitura": "Abril tem só um mercado após as exclusões, tornando frágil a comparação inicial. O fabricante distingue materiais de cobertura. Preço do pacote pode misturar unidades, variantes e tamanhos. Há fundamento técnico para controlar diferenças, mas não foi comprovado um fator mensal de custo que explique a série.",
+      "fontes": [
+        "E14",
+        "E10"
+      ],
+      "tipo_evidencia": "fundamento de cadeia",
+      "fatores": [
+        {
+          "titulo": "Cobertura e variante",
+          "mecanismo": "Seca, suave, diurno e noturno podem identificar produtos diferentes.",
+          "fontes": [
+            "E14"
+          ]
+        },
+        {
+          "titulo": "Unidades e tamanho",
+          "mecanismo": "Comparação exige contagem efetiva e mesma apresentação.",
+          "fontes": [
+            "E14",
+            "E10"
+          ]
+        },
+        {
+          "titulo": "Marca, quantidade e data",
+          "mecanismo": "Comparar o mesmo produto, conteúdo e calendário ajuda a separar reajuste de troca de produto ou oferta comercial.",
+          "fontes": [
+            "E10"
+          ]
+        }
+      ],
+      "trajetoria": [
+        {
+          "mes": "2026-04",
+          "mediana": "7.59",
+          "minimo": "7.59",
+          "maximo": "7.59",
+          "n_mercados": 1
+        },
+        {
+          "mes": "2026-05",
+          "mediana": "9.895",
+          "minimo": "7.49",
+          "maximo": "10.99",
+          "n_mercados": 4
+        },
+        {
+          "mes": "2026-06",
+          "mediana": "9.0",
+          "minimo": "7.49",
+          "maximo": "9.99",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-08",
+          "mediana": "9.5",
+          "minimo": "7.49",
+          "maximo": "10.98",
+          "n_mercados": 5
+        },
+        {
+          "mes": "2026-09",
+          "mediana": "7.49",
+          "minimo": "5.5",
+          "maximo": "9.5",
+          "n_mercados": 5
+        }
+      ],
+      "cobertura_constante_cinco": false,
+      "embalagens_explicitas": 0,
+      "registros": 25,
+      "limite": "Medianas descrevem registros válidos que podem misturar marcas e tamanhos. Outra região ou etapa da cadeia não comprova causa local. Julho sem coleta; abril presencial pendente de confirmação.",
+      "para_confirmar": "Conferir rótulo, mesma marca e conteúdo, data, fornecedor e eventual oferta. A pesquisa não tem notas de compra das lojas ou entrevistas que confirmem repasse."
+    }
+  ]
+}

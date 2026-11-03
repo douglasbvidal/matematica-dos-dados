@@ -1,0 +1,1 @@
+Abra index.html no navegador. Navegação, gráficos SVG, ilustrações, filtros e simulador funcionam localmente, sem rede. Referências externas exigem internet. Versão de trabalho com os mesmos dados r2; não é homologação institucional.
